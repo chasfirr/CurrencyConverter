@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverterTechTix</string>
+    <string name="API_KEY">MBp7sJ1BJJ6YoFfHbnHiULDTVPLcfqGp</string>
+    <string name="BaseURL">https://api.apilayer.com/currency_data/change?</string>
+    <string name="spinner_hint">select Currency</string>
+    <string name="live">https://api.apilayer.com/currency_data/live?source={source}&amp;currencies={currencies}</string>
+</resources>
